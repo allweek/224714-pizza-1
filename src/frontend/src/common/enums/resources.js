@@ -7,8 +7,4 @@ export default {
   MISC: "misc",
   ADDRESSES: "addresses",
   ORDERS: "orders",
-  // COMMENTS: 'comments',
-  // USERS: 'users',
-  // TASKS: 'tasks',
-  // TICKS: 'ticks'
 };
